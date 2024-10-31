@@ -1,4 +1,4 @@
-mport streamlit as st
+import streamlit as st
 
 dan = st.number_input("단 입력>>")
 
